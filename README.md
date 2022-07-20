@@ -10,4 +10,5 @@ elseif game.PlaceId == 10224689615 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidSkids/MoneySim/main/README.md"))()
 elseif game.PlaceId == 1215391183 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidSkids/GrowingSim/main/README.md"))()
-end
+elseif game.PlaceId == 6716188523 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidSkids/InfMoneyNigga/main/README.md"))()
